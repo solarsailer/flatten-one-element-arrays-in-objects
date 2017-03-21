@@ -8,6 +8,7 @@
     "name": "Matthieu Oger",
     "url": "solarsailer.net"
   },
+  "main": "./index.js",
   "scripts": {
     "test": "jest --watch"
   },
@@ -17,5 +18,8 @@
   },
   "standard": {
     "globals": ["it", "describe", "expect"]
+  },
+  "engine": {
+    "node": ">=7.6.0"
   }
 }

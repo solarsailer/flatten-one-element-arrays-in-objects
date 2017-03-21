@@ -1,6 +1,6 @@
 'use strict'
 
-const flatten = require('./flatten')
+const flatten = require('./index')
 
 // -------------------------------------------------------------
 // Tests.
