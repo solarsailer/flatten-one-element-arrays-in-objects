@@ -1,0 +1,21 @@
+{
+  "name": "flatten-one-element-arrays-in-objects",
+  "version": "0.1.0",
+  "description": "Flatten one-element arrays in objects",
+  "license": "MIT",
+  "repository": "solarsailer/flatten-one-element-arrays-in-objects",
+  "author": {
+    "name": "Matthieu Oger",
+    "url": "solarsailer.net"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^19.0.2"
+  },
+  "standard": {
+    "globals": ["it", "describe", "expect"]
+  }
+}
